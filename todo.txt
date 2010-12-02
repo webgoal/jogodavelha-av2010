@@ -1,0 +1,5 @@
+Lista de funcionalidades
+
+- Tabuleiro vazio
+Jogadores jogam
+Fim do jogo
